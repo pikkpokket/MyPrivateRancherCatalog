@@ -1,0 +1,8 @@
+name: MediaWiki
+description: |
+  MediaWiki is the wiki package used by Wikipedia.
+version: "0.1.0"
+category: Media
+maintainer: Eric Young
+license: Apache, v2
+projectURL: https://gerrit.wikimedia.org/r/p/mediawiki/core.git

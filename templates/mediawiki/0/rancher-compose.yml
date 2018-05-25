@@ -1,0 +1,8 @@
+version: '1'
+.catalog:
+  name: "MediaWiki"
+  version: "0.1.0"
+  description: |
+    MediaWiki is the wiki package used by Wikipedia.
+  minimum_rancher_version: v1.1.0
+  maximum_rancher_version: v1.99.99
